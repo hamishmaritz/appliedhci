@@ -4,9 +4,14 @@ class Method extends Component {
   render() {
     return (
       <div>
-        <h2>This is the Method</h2>
-        <p>Something
-        our <a href="http://google.com">Link</a>.
+        <h2>Josh</h2>
+        <p>Write Here
+        </p>
+        <h2>Michael</h2>
+        <p>Write Here
+        </p>
+        <h2>Hamish</h2>
+        <p>Write Here
         </p>
       </div>
     );

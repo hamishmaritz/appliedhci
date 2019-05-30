@@ -4,9 +4,8 @@ class Method extends Component {
   render() {
     return (
       <div>
-        <h2>This is the Method</h2>
+        <h2>Conclusion</h2>
         <p>Something
-        our <a href="http://google.com">Link</a>.
         </p>
       </div>
     );
