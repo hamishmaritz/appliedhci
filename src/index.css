@@ -1,5 +1,5 @@
 body {
-  background-color: #42A5F5;
+  background-color: rgba(17, 108, 184, 0.603);
   padding: 20px;
   margin: 0;
 }
@@ -10,10 +10,14 @@ ul.header li {
   display: inline;
   list-style-type: none;
   margin: 0;
+  
 }
 ul.header {
-  background-color: #111;
+  background-color: rgb(46, 46, 46);
   padding: 0;
+  box-shadow: 5px 5px;
+  border-radius: 25px;
+  text-align: center;
 }
 ul.header li a {
   color: #FFF;
@@ -21,6 +25,7 @@ ul.header li a {
   text-decoration: none;
   padding: 20px;
   display: inline-block;
+  
 }
 .content {
   background-color: #FFF;
@@ -32,4 +37,12 @@ ul.header li a {
 }
 .content li {
   margin-bottom: 10px;
+}
+
+h1.intro {
+  color: white;
+  text-align: center;
+  text-shadow: 2px 4px black;
+  font-family: "Helvetica", bold, serif;
+  font-size: 40px;
 }
