@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Info from './Info'
 import Method from './Method'
 import Home from './Home'
 import Data from './Data'
