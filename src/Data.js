@@ -8,16 +8,17 @@ class Method extends Component {
     return (
       <div>
         <h2>Data</h2>
+        <p>Included in this section is the data that has been gathered from conducting the tests</p>
         <h3>Title</h3>
         <img src={HowLongGraph} width={800} height={300} mode='fit' alt="Pie Graph" />;
-        <p>Info</p>
+        <p>Fig 1</p>
         <h3>Title</h3>
         <img src={HowLongShare} width={800} height={300} mode='fit' alt="Pie Graph" />;
-        <p>Info
+        <p>Fig 2
         </p>
         <h3>Need to fix and add my results(hamish)</h3>
         <img src={HowLongExcel} width={500} height={400} mode='fit' alt="Pie Graph" />;
-        <p>Info
+        <p>Fig 3
         </p>
       </div>
     );

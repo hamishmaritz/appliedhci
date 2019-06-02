@@ -6,9 +6,7 @@ class Method extends Component {
       <div>
         <h2>Method</h2>
         <h3>Equipment:</h3>
-        <p>For this experiment, the only equipment required was a smartphone of the users choice. 
-          The experiment is also conducted in an area with a stable internet connection, this would be for the use of smartphone applications such as Messenger and Email software.  
-          The choice of smartphone could also greatly impact the final outcome of the experiment as devices running Android operating systems do not have access to AirDrop, whilst iOS devices are quite limited with their methods of file sharing. 
+        <p>For this experiment, the only equipment required was a smartphone of the users choice. The analysis is also conducted in an area with a stable internet connection; this would be for the use of smartphone applications such as Messenger and Email software. The choice of a smartphone could also significantly impact the outcome of the experiment as devices running Android operating systems do not have access to AirDrop, while iOS devices are quite limited with their methods of file sharing. 
         </p>
         <h3>Steps:</h3>
         <p>1. Find a willing participant and hand them the information sheet and consent sheet if necessary.</p>
