@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import HowLongGraph from './images/howlonggraph.png'
 import HowLongShare from './images/howlongshare.png'
-import HowLongExcel from './images/howlongexcel.png'
 import {
   NavLink
 } from "react-router-dom";
@@ -12,16 +11,16 @@ class Method extends Component {
       <div>
         <h2>Data</h2>
         <p>Included in this section is the data that has been gathered from conducting the tests.<br></br> Using Box and Whispers Plot Graphs allows to handle the broad data effortlessly and provides a clear summary of results. </p>
-        <h3>How long it took to find a software</h3>
-        <img src={HowLongGraph} width={800} height={300} mode='fit' alt="Pie Graph" />;
+        <h3>How long did it take to open the software</h3>
+        <img src={HowLongGraph} width={800} height={300} mode='fit' alt="Pie Graph" />
         <p>Fig 1, using a Box and Whisker Plot</p>
-        <h3>How long it took to share a photo</h3>
-        <img src={HowLongShare} width={800} height={300} mode='fit' alt="Pie Graph" />;
+        <h3>How long it took to send an image</h3>
+        <img src={HowLongShare} width={800} height={300} mode='fit' alt="Pie Graph" />
         <p>Fig 2, using a Box and Whisker Plot
         </p>
         <p>From the box plots we can see how long it took for our user pool of 15 users to find the software they wanted to use, which on average took 6.73 (Seconds). <br></br>This shows a level of familiarity with the software and that the software stands out to the user. In addition by referring to Fig 2 we can see that it took some<br></br> users longer to share the photo than others but on average users took 8.021 (Seconds) to share a photo. A more in depth analysis is done on the <NavLink to="/analysis">Analysis Page</NavLink></p>
 
-    <h3>How long did it take to prepare the Software</h3>
+    <h3>How long did it take to open the software</h3>
     <table>
     <tr>
       <th>Users</th>
@@ -123,7 +122,7 @@ class Method extends Component {
     </tr>
 </table>
 
-<h3>How long did it took to send an image</h3>
+<h3>How long did it take to send an image</h3>
     <table>
     <tr>
       <th>Users</th>

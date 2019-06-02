@@ -13,8 +13,19 @@ class Method extends Component {
         </p>
         <p>Overall I enjoyed my role in this project and took the advantages provided to me through the Applied Human Computer Interaction paper to build upon my learnings as a Network Security Major student as well as to broaden my understanding of Human Computer Interaction . Overall I found that this paper has helped my understanding and has aided me in further understanding my own Research And Development Project.</p>
         <h2>Michael Xie:15901507 </h2>
-        <p>Write Here
+        <p>Going into this assignment I had little knowledge of what was involved in Human-Computer Interaction. I never knew how big of an impact it had on today's market for technology, and that it is one of the key aspects to consider when developing any piece of tech or software for human consumption. Along with this, I have also come to realize that a lot of evolution in technology has also come this far due to the Human-Computer Interaction field of study, and without it we would not be where we are today. 
         </p>
+        <p>For this assignment, my group and I decided to go with the research topic of “What File Sharing Method via Smartphones is Most Efficient?” This idea was brought to my attention when I was trying to share a photo with two of my friends via my iPhone. One of them used an iPhone and the other used a Huawei phone, running an Android operating system. For the iPhone, I was able to use AirDrop; an iPhone feature restricted to only Apple devices but I was yet to still find a method of file sharing for the the Android device. I was left with questions like:</p>
+        <li>What sharing method is most popular?</li>
+        <li>Will the method compress the image?</li>
+        <li>Is AirDrop really that much more efficient than the other methods?</li>
+        <li>What is the fastest method of sharing this image?</li>
+        <li>What is the most optimal and efficient method of photo sharing?</li>
+        <p>This lead to being a great research topic for our group as it showed me that such a simple task had so many more layers to it than we realize in our day to day lives.
+
+For this assignment, all of us took turns at being the interviewer, timer and recipient of the image, however my main role was being the timer and recipient. Along with this, I also documented our findings and found that the results were quite astonishing. 
+</p>
+<p>Overall, I can say that really enjoyed undertaking this experiment as it taught me a lot about what goes on behind the scenes with HCI. Prior to this assignment and paper, I had no experience in this field of work at all, therefore I had extremely limited knowledge about HCI. The knowledge I have gained from this assignment is definitely something that I can apply to my studies and work field in the future. I definitely look forward to applying this to my Software Engineering career after I finish my studies. </p>
         <h2>Hamish Maritz:1383425 </h2>
         <p>From this assignment, I have learned to question more when it comes to human interaction around technology. Using technology daily and not asking how it functions is something that we tend to brush over and expect it to work without a second thought. Applied Human-Computer Interaction has taught me that there is more when it comes to the interfaces between humans and computers.
         </p>
